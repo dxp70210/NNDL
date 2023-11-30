@@ -1,0 +1,7 @@
+# DL_Final_Project
+
+# SKIN DISEASES DETECTION USING DEEP LEARNING
+
+## Vamshi Krishna Rapolu
+
+700742210
