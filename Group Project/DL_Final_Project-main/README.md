@@ -2,6 +2,6 @@
 
 # SKIN DISEASES DETECTION USING DEEP LEARNING
 
-## Vamshi Krishna Rapolu
+## Dileep Kumar
 
-700742210
+700747021
